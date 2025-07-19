@@ -8,5 +8,5 @@ The notebook includes distance calculations (e.g., TPE to NRT) and basic visuali
 🔗 https://nbviewer.org/github/petergu12/airport-eda/blob/main/airport_distance_eda.ipynb
 
 📄 Download final report (Word):  
-🔗 https://petergu12.github.io/airport-eda/EDA_Project_Final_Report.docx
+🔗 https://petergu12.github.io/airport-eda/EDA_Project_Final_Report..docx
 
