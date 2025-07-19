@@ -4,8 +4,9 @@ This project analyzes global airport locations and calculates the distance betwe
 
 The notebook includes distance calculations (e.g., TPE to NRT) and basic visualizations to show how airports are distributed globally.
 
-📂 Files:
-- airport_distance_eda.ipynb – Code and visualizations
-- EDA_Project_Final_Report.docx – Final report (with flowchart and reflections)
+📘 View notebook online:  
+🔗 https://nbviewer.org/github/petergu12/airport-eda/blob/main/airport_distance_eda.ipynb
 
+📄 Download final report (Word):  
+🔗 https://petergu12.github.io/airport-eda/EDA_Project_Final_Report.docx
 
